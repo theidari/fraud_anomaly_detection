@@ -13,4 +13,23 @@ To calculate the IQR, the dataset is first sorted in ascending order. The median
 <h5>2.2.2. K-Means</h5>
 <p align="justify">&emsp;&emsp;K-means is an unsupervised machine learning algorithm used for clustering data. It aims to partition n observations into k clusters, where each observation belongs to the cluster with the nearest mean. The algorithm works by iteratively updating the cluster centroids and assigning data points to their closest centroid until convergence. K-means is widely used in various fields, including image segmentation, customer segmentation, and anomaly detection.</p>
 <h3>3.Dataset</h3>
-<p align="justify">The dataset being examined consists of real anonymized transactions from a Czech bank, spanning the period between 1993 and 1999. These transactions do not have explicit labels indicating fraud or money laundering. While the majority of the transactions are considered legitimate, given the nature of the bank's operations, there is a possibility that a small portion of them may involve illicit activities. It is important to note that, for this project, the month of October 1997 was randomly chosen as the sample month.</p>
+<p align="justify">The <a href="https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions">dataset</a> being examined consists of real anonymized transactions from a Czech bank, spanning the period between 1993 and 1999. These transactions do not have explicit labels indicating fraud or money laundering. While the majority of the transactions are considered legitimate, given the nature of the bank's operations, there is a possibility that a small portion of them may involve illicit activities. It is important to note that, for this project, the month of October 1997 was randomly chosen using below code as the sample month.</p>
+
+```python
+import random
+# Create a list representing the months from 1 to 84
+months = list(range(1, 85))
+# Randomly sample one month
+random_month = random.choice(months)
+print("Randomly sampled month:", random_month)
+```
+<p align="center">
+<img src="https://github.com/theidari/fraud_anomaly_detection/blob/main/assets/features_fig.png" width="700px">
+</p>
+<h3>4.Results</h3>
+<h3>5.Conclusions</h3>
+<h3>6.Future Improvement and Discussion</h3>
+<h3>References</h3>
+
+
+
