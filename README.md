@@ -30,11 +30,11 @@ print("Randomly sampled month:", random_month)
 <img src="https://github.com/theidari/fraud_anomaly_detection/blob/main/assets/features_fig.png" width="700px">
 </p>
 <h3>4.Results</h3>
-<h6 align="center">Fig 1-Original and Synthetic Features</h6>
+<h6 align="center">Fig 2-Tableau Dashboard View 1</h6>
 <p align="center">
 <img src="https://github.com/theidari/fraud_anomaly_detection/blob/main/assets/dash_fig_1.png" width="700px">
 </p>
-<h6 align="center">Fig 1-Original and Synthetic Features</h6>
+<h6 align="center">Fig 3-Tableau Dashboard View 2</h6>
 <p align="center">
 <img src="https://github.com/theidari/fraud_anomaly_detection/blob/main/assets/dash_fig_1.png" width="300px">
 </p>
