@@ -1,9 +1,8 @@
 <p align="center"><img src="https://github.com/theidari/fraud_anomaly_detection/blob/main/assets/fad_header.png" width="300px"></p>
 <h3>1.Project Overview</h3>
 <p align="justify">Fraud anomaly detection refers to the process of identifying unusual or suspicious patterns, behaviors, or activities that deviate from normal or expected behavior within a system, with the goal of detecting fraudulent or malicious activities. It is a vital technique used in various industries, such as finance, insurance, e-commerce, and cybersecurity, to identify and mitigate potential fraud risks.</p>
-<img src="https://img.shields.io/badge/Goal:-lightblue.svg?style=for-the-badge">
-<img src="https://img.shields.io/badge/Use anomaly detection to spot irregular bank transactions.-yellow.svg?style=for-the-badge">
-<img src="https://img.shields.io/badge/These transactions could be fraudulent or money laundering activities.-yellow.svg?style=for-the-badge">
+<h4 align="center"><ins>Goal</ins></h4>
+<p align="center"><img src="https://img.shields.io/badge/Detect and flag irregular bank transactions for fraud or money laundering-yellow.svg?style=for-the-badge"></p>
 
 <h3>2.Methods</h3>
 <p align="justify">I would classify the mathematical approaches to this problem into two categories: Easily explainable <b>statistical methods</b>, somewhat explainable unsupervised machine learning methods.</p>
