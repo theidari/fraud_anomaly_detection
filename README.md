@@ -25,13 +25,19 @@ print("Randomly sampled month:", random_month)
 ```
 <h4>1.3.Feature Profiling</h4>
 <a href="https://theidari.github.io/fraud_anomaly_detection/results/df_trans_profile">Data Profile</a>
+<h6 align="center">Fig 1-Original and Synthetic Features</h6>
 <p align="center">
-<h6>Original and Synthetic Features</h6>
 <img src="https://github.com/theidari/fraud_anomaly_detection/blob/main/assets/features_fig.png" width="700px">
 </p>
 <h3>4.Results</h3>
+<h6 align="center">Fig 1-Original and Synthetic Features</h6>
+<p align="center">
 <img src="https://github.com/theidari/fraud_anomaly_detection/blob/main/assets/dash_fig_1.png" width="700px">
-
+</p>
+<h6 align="center">Fig 1-Original and Synthetic Features</h6>
+<p align="center">
+<img src="https://github.com/theidari/fraud_anomaly_detection/blob/main/assets/dash_fig_1.png" width="300px">
+</p>
 <h3>5.Conclusions</h3>
 <ul>
 <li>Utilizing K-means clustering and validation metrics such as WCSS elbow and silhouette score, we can effectively detect anomalies and outliers in transaction data.</li>
