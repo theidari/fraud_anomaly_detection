@@ -38,6 +38,14 @@ print("Randomly sampled month:", random_month)
 <li>This method offers a data-driven approach to enhance decision-making, fraud detection, and risk management in various industries.</li>
 </ul>
 <h3>6.Future Improvement and Discussion</h3>
+<ul>
+<li>Develop a systematic approach to integrate results from standard deviation analysis, box plot method, and K-means clustering.</li>
+<li>Compare against known outliers or expert-labeled data for effectiveness evaluation.</li>
+<li>Assign weights or confidence levels to each method based on their effectiveness and reliability.</li>
+<li>Analyze performance metrics (precision, recall, F1 score) to assess accuracy and reliability.</li>
+<li>Thoroughly validate and refine the combined results.</li>
+</ul>
+
 <h3>References</h3>
 
 
