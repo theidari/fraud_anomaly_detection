@@ -24,7 +24,7 @@ random_month = random.choice(months)
 print("Randomly sampled month:", random_month)
 ```
 <h4>1.3.Feature Profiling</h4>
-<img src="https://theidari.github.io/fraud_anomaly_detection/results/df_trans_profile">
+<a href="https://theidari.github.io/fraud_anomaly_detection/results/df_trans_profile">Data Profile</a>
 <p align="center">
 <img src="https://github.com/theidari/fraud_anomaly_detection/blob/main/assets/features_fig.png" width="700px">
 </p>
