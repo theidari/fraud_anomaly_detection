@@ -36,7 +36,7 @@ print("Randomly sampled month:", random_month)
 </p>
 <h6 align="center">Fig 3-Tableau Dashboard View 2</h6>
 <p align="center">
-<img src="https://github.com/theidari/fraud_anomaly_detection/blob/main/assets/dash_fig_1.png" width="300px">
+<img src="https://github.com/theidari/fraud_anomaly_detection/blob/main/assets/dash_fig_2.png" width="250px">
 </p>
 <h3>5.Conclusions</h3>
 <ul>
