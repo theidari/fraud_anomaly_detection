@@ -36,6 +36,7 @@ print("Randomly sampled month:", random_month)
 <ul>
 <li>Utilizing K-means clustering and validation metrics such as WCSS elbow and silhouette score, we can effectively detect anomalies and outliers in transaction data.</li>
 <li>This method offers a data-driven approach to enhance decision-making, fraud detection, and risk management in various industries.</li>
+<li>Fraud can be identified more easily in accounts with higher number of transactions.</li>
 </ul>
 <h3>6.Future Improvement and Discussion</h3>
 <ul>
