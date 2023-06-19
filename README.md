@@ -7,7 +7,7 @@
 <p align="center"><img src="https://img.shields.io/badge/Detect and flag irregular bank transactions for fraud or money laundering-yellow.svg?style=for-the-badge"></p>
 <img src="https://img.shields.io/badge/ -yellow.svg?style=for-the-badge" width="1500px" height="1px">
 <h3>2.Methods</h3>
-<p align="justify">I would classify the mathematical approaches to this problem into two categories: Easily explainable <b>statistical methods</b>, somewhat explainable unsupervised machine learning methods.</p>
+<p align="justify">The mathematical approaches employed for addressing this problem can be classified into two distinct categories: <b>statistical</b> methods and <b>unsupervised machine learning</b> methods.</p>
 <h4>1.2. Statistical Methods</h4>
 <h5>1.1.2. Interquartile range (IQR)</h5>
 <p align="justify">&emsp;&emsp;The interquartile range (IQR) is a measure of variability used in statistical analysis. It is a measure of the spread of a dataset and is defined as the difference between the upper and lower quartiles of the dataset.
